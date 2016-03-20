@@ -1,6 +1,4 @@
-# Vagrant Box Centos 7 LEMP
-
-## Development BOX PHP 7 - Centos 7 LEMP
+## Development Vagrant BOX PHP 7 - Centos 7 LEMP
 Based on Fideloper project.
 
 **Va**&#x200B;grant **Pro**&#x200B;visioning **Bash** Scripts
