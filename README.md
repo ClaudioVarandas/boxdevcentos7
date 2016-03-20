@@ -1,5 +1,13 @@
-## Development Vagrant BOX PHP 7 - Centos 7 LEMP
-Based on Fideloper project.
+## Development Vagrant BOX Centos 7 LEMP
+
+
+* PHP 7 - FPM
+* nginx
+* Mysql 5.7
+* Git
+* Composer
+
+*Based on Fideloper project.*
 
 **Va**&#x200B;grant **Pro**&#x200B;visioning **Bash** Scripts
 
